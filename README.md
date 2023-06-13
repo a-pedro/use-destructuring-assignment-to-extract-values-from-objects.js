@@ -1,0 +1,1 @@
+# use-destructuring-assignment-to-extract-values-from-objects.js
